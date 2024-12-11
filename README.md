@@ -6,10 +6,17 @@ View & Navigate Calendar: Navigate through the months and view the days.
 Add Events: Add events with a name, start time, end time, and optional description.
 View Events: View all events for a specific day.
 Persistent Storage: Events are stored in localStorage for persistent data.
+
 Technologies Used:
 React
 date-fns (for date handling)
 Tailwind CSS (for styling)
+
 Installation:
 Clone the repository.
+
 Install dependencies
+npm install
+
+Start the development server:
+npm start
